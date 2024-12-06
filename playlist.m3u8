@@ -1,0 +1,3 @@
+#EXTINF:0 tvg-id="2" tvg-logo="http://epg.cdntv.online/img/2.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Россия 1
+#EXTGRP:Федеральные
+http://cdntv.online/high/3hyc6pqaje/2.m3u8
